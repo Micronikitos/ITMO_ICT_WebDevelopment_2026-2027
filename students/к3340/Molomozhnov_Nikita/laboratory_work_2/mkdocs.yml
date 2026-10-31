@@ -1,0 +1,13 @@
+site_name: ЛР2 — Табло авиаперелётов. Моломожнов Никита, к3340
+theme:
+  name: material
+  language: ru
+nav:
+  - Отчёт: index.md
+markdown_extensions:
+  - tables
+  - fenced_code
+  - codehilite
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
